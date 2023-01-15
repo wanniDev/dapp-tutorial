@@ -28,6 +28,11 @@ dependencies {
 
     /** JPA **/
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
+
+    // web3j
+    implementation("org.web3j:core:4.9.4")
+    implementation("org.web3j:abi:4.9.4")
+    implementation("com.esaulpaugh:headlong:6.3.2")
 }
 
 tasks.withType<KotlinCompile> {
