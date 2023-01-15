@@ -1,7 +1,5 @@
 module.exports = {
   networks: {
-    contracts_directory: "./contracts",
-    contracts_build_directory: "../src/main/resources/contract/abi",
     development: {
       host: "127.0.0.1",     // Localhost (default: none)
       port: 8545,            // Standard Ethereum port (default: none)
