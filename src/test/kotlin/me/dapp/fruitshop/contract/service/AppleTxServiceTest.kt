@@ -1,6 +1,7 @@
 package me.dapp.fruitshop.contract.service
 
 import me.dapp.fruitshop.AbstractTest
+import me.dapp.fruitshop.service.AppleTxService
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.AfterEach
 import org.junit.jupiter.api.BeforeEach
