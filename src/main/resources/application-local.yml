@@ -1,0 +1,5 @@
+ethereum:
+  url: http://127.0.0.1:8545
+  admin:
+    privateKey: "0x4c909fcd180a4ad1daf2db6f5cd521011d1b0c746265f22532c8563971e85906"
+    address: "0x874dceeED036469E850D22A0Be4ecbBa3f5Ea39d"
